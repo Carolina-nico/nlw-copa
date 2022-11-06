@@ -1,4 +1,4 @@
-# NLW 10 Copa
+# NLW #10 Copa
 ### Evento exclusivo e gratuito, promovido pela [Rocketseat](https://www.rocketseat.com.br/) para ensino de tecnologias WEB.
 <br>
 <p align="center">
